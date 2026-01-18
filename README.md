@@ -4,6 +4,8 @@ QUALSIASI COSA VERRA SCARICATA, SALVARLA IN QUESTA REPOSITORY
 
 CAMBIARE TITOLO REPOSITORY (es. 4 way intersection -> python, sumo vanetza- nap)
 
+FARE DOCKER
+
 INSERIRE PROGRAMMA PER INPUT/UOTPUT VANETAZA -> colored_output.html
 
 Programmi utilizzati
