@@ -32,4 +32,5 @@ ACCENNO A WSL + DOCKER (con accenno si intende la possibilità di fare la build 
 References: Documenti ETSI, SAE, github(vanetza-nap), WSL, etc.
 
 TO DO:
-implementare tutti i tipi di messaggi, CPM, DENM, etc.
+- implementare tutti i tipi di messaggi, CPM, DENM, etc.
+- realizzazione "pratica"(con raspbery, esp) di veicoli reali in miniatura
