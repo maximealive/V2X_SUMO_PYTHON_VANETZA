@@ -9,17 +9,17 @@ FARE DOCKER
 INSERIRE PROGRAMMA PER INPUT/UOTPUT VANETAZA -> colored_output.html
 
 Programmi utilizzati
-SUMO versione xxxxx
-
-pytnon versione xxxx
+- SUMO (Simulator of Urban Mobility)
+- Python
   (fare file per "reuqirements.txt")
 
 vanetza installation (https://github.com/nap-it/vanetza-nap -> copiare repository + aggiungere guida installazione e utilizzo; ad es. mqqt pub/sub, etc.)
 
-Versione di programmi utilizzati
+Versione di programmi utilizzati (AGGREGARE "Versione di programmi utilizzati" con "Programmi utilizzati")
 
-SUMO:
-PYTHON:
+SUMO: Eclipse SUMO sumo Version 1.12.0
+
+PYTHON: Python 3.10.12
 VANETZA-NAP
 
 Installazione dei vai programmi
