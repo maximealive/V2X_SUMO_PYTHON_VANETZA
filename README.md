@@ -29,6 +29,9 @@ PYTHON:
 VANETZA-NAP
 
 ACCENNO A WSL + DOCKER (con accenno si intende la possibilità di fare la build di un docker -> inserire tutto in un docker in modo da non dover installare nulla manualmente, ma già tutto pronto. )
+
+GUIDA SU COME FAR PARTIRE IL TUTTO (vanetza -> sudo docker-compose up, python3 main.py, etc.)
+
 References: Documenti ETSI, SAE, github(vanetza-nap), WSL, etc.
 
 TO DO:
