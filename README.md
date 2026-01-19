@@ -8,6 +8,8 @@ FARE DOCKER
 
 INSERIRE PROGRAMMA PER INPUT/UOTPUT VANETAZA -> colored_output.html
 
+UPLOAD DOCUMENTI: ETSI, SAE, "MANOEUVER...", ETC.
+
 Programmi utilizzati
 - SUMO (Simulator of Urban Mobility)
 - Python
