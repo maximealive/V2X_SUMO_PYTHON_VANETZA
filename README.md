@@ -39,3 +39,4 @@ References: Documenti ETSI, SAE, github(vanetza-nap), WSL, etc.
 TO DO:
 - implementare tutti i tipi di messaggi, CPM, DENM, etc.
 - realizzazione "pratica"(con raspbery, esp) di veicoli reali in miniatura
+- fare script per eliminare commenti da .json e fare formato compatto(es. mqtt pub 192.168.12.1 .... {basicContainer....},) 
